@@ -8,7 +8,3 @@
   - Glibc & Kernel
 - Mobile Security
 - Blog：nanhang.top
-
-## GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanhang-950)](https://github.com/anuraghazra/github-readme-stats)
